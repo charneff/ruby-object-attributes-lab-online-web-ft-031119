@@ -25,5 +25,5 @@ class Dog
   def name
     name 
   end
->>>>>>> d12db2a25b4e2cde1a54a5ad157a0f9a06d1eaa3
+
 end
